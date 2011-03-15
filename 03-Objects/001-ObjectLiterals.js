@@ -5,6 +5,7 @@
  * Date: 3/13/11
  * Time: 10:16 AM
  */
+
 var empty_object = {};
 
 var stooge = {
